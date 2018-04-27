@@ -5,6 +5,7 @@ public class Usuario {
 	private int id;
 	private String nome;
 	private int telefone;
+	private int cpf;
 	
 	public Usuario(String nome) {
 		this(0, nome);
